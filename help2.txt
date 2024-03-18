@@ -1,0 +1,12 @@
+git config --global user.name "yathribtravel"
+ git config --global user.email "yathribtravelsystem@gmail.com"
+ git checkout -b relationship
+ > git branch
+
+
+-----------------------
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+Set-ExecutionPolicy RemoteSigned  
+ Set-ExecutionPolicy Restricted 
+ powershell.exe -ExecutionPolicy bypass
+ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser
